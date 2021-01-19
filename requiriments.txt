@@ -1,4 +1,0 @@
-Streamlit
-Pandas
-Matplotlib.pyplot
-wordcloud
