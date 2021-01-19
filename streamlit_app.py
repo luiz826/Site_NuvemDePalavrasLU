@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS 
 
 # carregando o dataset das letras
-df = pd.read_excel('https://github.com/luiz826/Site_NuvemDePalavrasLU/blob/main/lu2.xlsx?raw=true')
+df = pd.read_csv('https://raw.githubusercontent.com/luiz826/Site_NuvemDePalavrasLU/main/lu2.csv', sep=";")
 
 #definindo essa função para facilitar    
 def wc_por_mcs(name):
