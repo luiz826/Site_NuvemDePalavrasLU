@@ -1,5 +1,4 @@
-matplotlib==3.3.2
-wordcloud==1.7.0
-pandas==1.2.0
+numpy==1.19.2
 streamlit==0.74.1
-xlrd >= 1.0.0
+pandas==1.2.0
+scikit_learn==0.24.1
